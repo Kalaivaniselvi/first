@@ -1,0 +1,9 @@
+
+table,tr,th,td {
+   border:black 5px solid;
+   text-align: center;
+   border-collapse: collapse;
+   width: 800px;
+   height: 60px;
+   background-color:rgb(0, 255, 21);
+}
